@@ -56,7 +56,7 @@ driver.quit()
 
 # salvando o dicionário próprio em um json
 json = json.dumps(placar_medalhas,  ensure_ascii=False)
-fp = open('placar_total.json', 'w')
-with open('placar_total.json', 'w', encoding='utf-8') as fp:
+fp = open('folha_extracao.json', 'w')
+with open('folha_extracao.json', 'w', encoding='utf-8') as fp:
     fp.write(json)
 fp.close()
