@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import csv
+import re
 
 # URL e headers
 url = 'https://ge.globo.com/olimpiadas/noticia/2024/08/01/quantas-medalhas-o-brasil-tem-nas-olimpiadas-2024-veja-lista.ghtml'
@@ -13,76 +14,52 @@ soup = BeautifulSoup(site.content, 'html.parser')
 # Encontrando as listas de medalhistas
 medalhistas = soup.find_all('ul', class_='content-unordered-list')
 
-# Lista para armazenar os dados extraídos
-dados = []
-
-print(medalhistas)
-
-# Função para corrigir nomes de esportes ou equipes
-def corrigir_esporte(esporte):
-    esporte = esporte.strip().lower()
-    if 'seleção feminina de futebol' in esporte:
-        return 'futebol'
-    elif 'seleção feminina de vôlei' in esporte:
-        return 'vôlei'
-    elif 'equipe feminina de ginástica artística' in esporte:
-        return 'ginástica artística'
-    else:
-        return esporte
-
-# Função para corrigir a categoria da medalha
-def corrigir_categoria(categoria):
-    categoria = categoria.strip().lower()
-    if 'ouro' in categoria:
-        return 'Ouro'
-    elif 'prata' in categoria:
-        return 'Prata'
-    elif 'bronze' in categoria:
-        return 'Bronze'
-    else:
-        return categoria
-
-# Processando cada item da lista
-for medalha in medalhistas:
-    for item in medalha.find_all('li'):
-        # Extraindo a categoria da medalha (tag <strong>)
-        categoria = item.find('strong').text.strip()
-
-        # Corrigir categoria
-        categoria_corrigida = corrigir_categoria(categoria)
-
-        # Extraindo os atletas e os esportes
-        atletas_e_esportes = item.text.replace(categoria, "").strip()
-
-        # Separando os atletas e os esportes pela vírgula ou "e"
-        atletas_esportes_list = [x.strip() for x in atletas_e_esportes.replace(' e ', ',').split(',')]
-
-        for atleta_esporte in atletas_esportes_list:
-            # Remover o "-" do nome do atleta e separar nome do esporte (se houver)
-            atleta_esporte = atleta_esporte.lstrip('-').strip()
+# Função para limpar e tratar os dados
+def extrair_medalhas(medalhistas):
+    dados = []
+    for lista in medalhistas:
+        for item in lista.find_all('li'):
+            # Extraindo medalha e corrigindo formato
+            medalha_raw = item.find('strong').text.strip()
+            medalha = re.sub(r'Ouros', 'Ouro', re.sub(r'Pratas', 'Prata', re.sub(r'Bronzes', 'Bronze', medalha_raw.split()[1])))
             
-            if '(' in atleta_esporte:  # Existe um esporte associado ao atleta
-                nome_atleta = atleta_esporte.split('(')[0].strip()
-                esporte = atleta_esporte.split('(')[1].replace(')', '').strip()
-            else:  # Se não houver parênteses, o atleta e o esporte são combinados
-                nome_atleta = atleta_esporte.strip()
-                esporte = "Desconhecido"  # Caso não tenha esporte explícito
-                
-            # Corrigir o nome do esporte
-            esporte_corrigido = corrigir_esporte(esporte)
+            # Extraindo a string após o hífen
+            conteudo = item.text.split('-')[1].strip()
             
-            # Adicionando uma linha para cada medalha (caso haja multiplicidade)
-            if '(' in atleta_esporte and esporte.isdigit():
-                qtd = int(esporte)
-                for _ in range(qtd):
-                    dados.append([nome_atleta, f"1 {categoria_corrigida}", esporte_corrigido])
-            else:
-                dados.append([nome_atleta, f"1 {categoria_corrigida}", esporte_corrigido])
+            # Separando os atletas e esportes
+            atletas = re.split(r',| e ', conteudo)  # Divide por vírgula ou " e "
+            for atleta in atletas:
+                # Expressão regular ajustada para número isolado
+                match = re.search(r'(.+?) \((\b\d+\b)? ?(.+?)?\)', atleta)  # Captura nome, número isolado e esporte
+                if match:
+                    nome = match.group(1).strip()
+                    quantidade = int(match.group(2)) if match.group(2) else 1
+                    esporte = match.group(3).strip() if match.group(3) else 'Indefinido'
+                    
+                    # Adiciona múltiplas linhas conforme quantidade de medalhas
+                    for _ in range(quantidade):
+                        dados.append([nome, medalha, esporte, url])
+                else:
+                    # Tratamento para casos sem parênteses
+                    if 'seleção feminina de futebol' in atleta:
+                        dados.append(['Seleção Feminina de Futebol', medalha, 'Futebol', url])
+                    elif 'seleção feminina de vôlei' in atleta:
+                        dados.append(['Seleção Feminina de Vôlei', medalha, 'Vôlei', url])
+                    elif 'equipe feminina de ginástica artística' in atleta:
+                        dados.append(['Equipe Feminina de Ginástica Artística', medalha, 'Ginástica Artística', url])
+                    elif 'equipe de judô' in atleta:
+                        dados.append(['Equipe de Judô', medalha, 'Judô', url])
+                    else:
+                        dados.append([atleta.strip(), medalha, 'Indefinido', url])
+    return dados
 
-# Salvando os dados em um arquivo CSV
-with open('extracao_Globo_Esporte.csv', mode='w', newline='', encoding='utf-8') as file:
-    writer = csv.writer(file)
-    writer.writerow(['Nome Atleta', 'Categoria da Medalha', 'Esporte'])  # Cabeçalho
-    writer.writerows(dados)
+# Extraindo dados
+dados_tratados = extrair_medalhas(medalhistas)
 
-print("CSV gerado com sucesso!")
+# Salvando no arquivo CSV com a coluna 'url'
+with open('extracao_globo_esporte.csv', 'w', newline='', encoding='utf-8') as csvfile:
+    writer = csv.writer(csvfile)
+    writer.writerow(['Nome do Atleta', 'Medalha', 'Esporte', 'URL'])
+    writer.writerows(dados_tratados)
+
+print("Dados salvos no arquivo 'extracao_globo_esporte.csv'.")

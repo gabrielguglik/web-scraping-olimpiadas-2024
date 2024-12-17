@@ -1,511 +1,511 @@
-Posição,País,Medalhas de Ouro,Medalhas de Prata,Medalhas de Bronze,Total de Medalhas
-1º,China CHN,94.0,76.0,50.0,220.0
-2º,Grã-Bretanha GBR,49.0,44.0,31.0,124.0
-3º,Estados Unidos EUA,36.0,42.0,27.0,105.0
-4º,Ucrânia UCR,22.0,28.0,32.0,82.0
-5º,França FRA,19.0,28.0,28.0,75.0
-6º,Brasil BRA,25.0,26.0,38.0,89.0
-7º,Atletas Paralímpicos Neutros IPA,26.0,22.0,23.0,71.0
-8º,Holanda HOL,27.0,17.0,12.0,56.0
-9º,Austrália AUS,18.0,17.0,28.0,63.0
-10º,Itália ITA,24.0,15.0,32.0,71.0
-11º,Alemanha ALE,10.0,14.0,25.0,49.0
-12º,Espanha ESP,7.0,11.0,22.0,40.0
-13º,Tailândia TAI,6.0,11.0,13.0,30.0
-14º,Japão JAP,14.0,10.0,17.0,41.0
-15º,Irã IRA,8.0,10.0,7.0,25.0
-16º,Coreia do Sul CDS,6.0,10.0,14.0,30.0
-17º,Turquia TUR,6.0,10.0,12.0,28.0
-18º,Canadá CAN,10.0,9.0,10.0,29.0
-19º,Uzbequistão UZB,10.0,9.0,7.0,26.0
-20º,Índia IND,7.0,9.0,13.0,29.0
-21º,Suíça SUI,8.0,8.0,5.0,21.0
-22º,Indonésia INS,1.0,8.0,5.0,14.0
-23º,Colômbia COL,7.0,7.0,14.0,28.0
-24º,Polônia POL,8.0,6.0,9.0,23.0
-25º,Hungria HUN,5.0,6.0,4.0,15.0
-26º,México MEX,3.0,6.0,8.0,17.0
-27º,Marrocos MAR,3.0,6.0,6.0,15.0
-28º,Bélgica BEL,7.0,4.0,3.0,14.0
-29º,Hong Kong HKG,3.0,4.0,1.0,8.0
-30º,Geórgia GEO,1.0,4.0,4.0,9.0
-31º,Nova Zelândia NZL,1.0,4.0,4.0,9.0
-32º,República Tcheca TCH,1.0,4.0,3.0,8.0
-33º,Cuba CUB,6.0,3.0,1.0,10.0
-34º,Tunísia TUN,5.0,3.0,3.0,11.0
-35º,Grécia GRE,3.0,3.0,7.0,13.0
-36º,Argentina ARG,2.0,3.0,8.0,13.0
-37º,Dinamarca DIN,2.0,3.0,5.0,10.0
-38º,Cazaquistão CAZ,2.0,3.0,4.0,9.0
-39º,Nigéria NGR,2.0,3.0,2.0,7.0
-40º,Noruega NOR,1.0,3.0,3.0,7.0
-41º,Irlanda IRL,1.0,3.0,2.0,6.0
-42º,Sérvia SER,1.0,3.0,2.0,6.0
-43º,Mongólia MOG,1.0,3.0,0.0,4.0
-44º,Taiwan TAW,0.0,3.0,2.0,5.0
-45º,Áustria AUT,0.0,3.0,1.0,4.0
-46º,Azerbaijão AZE,4.0,2.0,5.0,11.0
-47º,Israel ISR,4.0,2.0,4.0,10.0
-48º,Venezuela VEN,3.0,2.0,1.0,6.0
-49º,Eslováquia ESV,3.0,2.0,0.0,5.0
-50º,Egito EGI,2.0,2.0,3.0,7.0
-51º,Malásia MAL,2.0,2.0,1.0,5.0
-52º,Bósnia e Herzegovina BOS,0.0,2.0,0.0,2.0
-53º,Letônia LET,3.0,1.0,0.0,4.0
-54º,Portugal POR,2.0,1.0,4.0,7.0
-55º,Cingapura CIN,2.0,1.0,0.0,3.0
-56º,Etiópia ETI,2.0,1.0,0.0,3.0
-57º,Iraque IRQ,1.0,1.0,3.0,5.0
-58º,Croácia CRO,1.0,1.0,2.0,4.0
-59º,Finlândia FIN,0.0,1.0,3.0,4.0
-60º,Suécia SUE,0.0,1.0,2.0,3.0
-61º,Chipre CHP,0.0,1.0,1.0,2.0
-62º,Moldávia MOL,0.0,1.0,1.0,2.0
-63º,Quênia QUE,0.0,1.0,0.0,1.0
-64º,Sri Lanka SRI,0.0,1.0,0.0,1.0
-65º,Trinidad e Tobago TRI,0.0,1.0,0.0,1.0
-66º,Argélia ALG,6.0,0.0,5.0,11.0
-67º,África do Sul AFS,2.0,0.0,4.0,6.0
-68º,Equador EQU,2.0,0.0,2.0,4.0
-69º,Jordânia JOR,2.0,0.0,1.0,3.0
-70º,Costa Rica COS,2.0,0.0,0.0,2.0
-71º,Chile CHI,1.0,0.0,5.0,6.0
-72º,Eslovênia ESL,1.0,0.0,1.0,2.0
-73º,Kuwait KUA,1.0,0.0,1.0,2.0
-74º,Namíbia NAM,1.0,0.0,1.0,2.0
-75º,Romênia ROM,1.0,0.0,1.0,2.0
-76º,Arábia Saudita ARS,1.0,0.0,0.0,1.0
-77º,Bulgária BUL,1.0,0.0,0.0,1.0
-78º,Peru PER,1.0,0.0,0.0,1.0
-79º,Atletas Paraolímpicos Refugiados APR,0.0,0.0,2.0,2.0
-80º,Lituânia LIT,0.0,0.0,1.0,1.0
-81º,Luxemburgo LUX,0.0,0.0,1.0,1.0
-82º,Maurício MRI,0.0,0.0,1.0,1.0
-83º,Montenegro MNE,0.0,0.0,1.0,1.0
-84º,Nepal NEP,0.0,0.0,1.0,1.0
-85º,Paquistão PAQ,0.0,0.0,1.0,1.0
-86º,Vietnã VIE,0.0,0.0,1.0,1.0
-87º,Afeganistão AFE,0.0,0.0,0.0,0.0
-88º,Angola ANG,0.0,0.0,0.0,0.0
-89º,Armênia ARM,0.0,0.0,0.0,0.0
-90º,Aruba ARU,0.0,0.0,0.0,0.0
-91º,Bahrein BRN,0.0,0.0,0.0,0.0
-92º,Bangladesh BAN,0.0,0.0,0.0,0.0
-93º,Barbados BAR,0.0,0.0,0.0,0.0
-94º,Benin BEN,0.0,0.0,0.0,0.0
-95º,Bermudas BER,0.0,0.0,0.0,0.0
-96º,Botsuana BOT,0.0,0.0,0.0,0.0
-97º,Burkina Faso BFA,0.0,0.0,0.0,0.0
-98º,Burundi BUR,0.0,0.0,0.0,0.0
-99º,Butão BUT,0.0,0.0,0.0,0.0
-100º,Cabo Verde CBV,0.0,0.0,0.0,0.0
-101º,Camarões CAM,0.0,0.0,0.0,0.0
-102º,Camboja CBJ,0.0,0.0,0.0,0.0
-103º,Congo CON,0.0,0.0,0.0,0.0
-104º,Costa do Marfim CMA,0.0,0.0,0.0,0.0
-105º,El Salvador ESA,0.0,0.0,0.0,0.0
-106º,Emirados Árabes Unidos EAU,0.0,0.0,0.0,0.0
-107º,Eritreia ERI,0.0,0.0,0.0,0.0
-108º,Estônia EST,0.0,0.0,0.0,0.0
-109º,Fiji FIJ,0.0,0.0,0.0,0.0
-110º,Filipinas FIL,0.0,0.0,0.0,0.0
-111º,Gabão GAB,0.0,0.0,0.0,0.0
-112º,Gâmbia GAM,0.0,0.0,0.0,0.0
-113º,Gana GAN,0.0,0.0,0.0,0.0
-114º,Granada GRA,0.0,0.0,0.0,0.0
-115º,Guatemala GUA,0.0,0.0,0.0,0.0
-116º,Guiné GUI,0.0,0.0,0.0,0.0
-117º,Guiné-Bissau GUB,0.0,0.0,0.0,0.0
-118º,Haiti HAI,0.0,0.0,0.0,0.0
-119º,Honduras HON,0.0,0.0,0.0,0.0
-120º,Iêmen IEM,0.0,0.0,0.0,0.0
-121º,Ilhas Salomão ISA,0.0,0.0,0.0,0.0
-122º,Ilhas Virgens Norte-Americanas IVI,0.0,0.0,0.0,0.0
-123º,Islândia ISL,0.0,0.0,0.0,0.0
-124º,Jamaica JAM,0.0,0.0,0.0,0.0
-125º,Kiribati KIR,0.0,0.0,0.0,0.0
-126º,Kosovo KOS,0.0,0.0,0.0,0.0
-127º,Laos LAO,0.0,0.0,0.0,0.0
-128º,Lesoto LES,0.0,0.0,0.0,0.0
-129º,Líbano LIB,0.0,0.0,0.0,0.0
-130º,Libéria LBR,0.0,0.0,0.0,0.0
-131º,Líbia LBA,0.0,0.0,0.0,0.0
-132º,Macau MAC,0.0,0.0,0.0,0.0
-133º,Macedônia MAC,0.0,0.0,0.0,0.0
-134º,Malauí MLU,0.0,0.0,0.0,0.0
-135º,Maldivas MLD,0.0,0.0,0.0,0.0
-136º,Mali MLI,0.0,0.0,0.0,0.0
-137º,Malta MLT,0.0,0.0,0.0,0.0
-138º,Mianmar MIA,0.0,0.0,0.0,0.0
-139º,Moçambique MOC,0.0,0.0,0.0,0.0
-140º,Nicarágua NIC,0.0,0.0,0.0,0.0
-141º,Níger NIG,0.0,0.0,0.0,0.0
-142º,Omã OMA,0.0,0.0,0.0,0.0
-143º,Palestina PAL,0.0,0.0,0.0,0.0
-144º,Panamá PAN,0.0,0.0,0.0,0.0
-145º,Papua-Nova Guiné PNG,0.0,0.0,0.0,0.0
-146º,Paraguai PAR,0.0,0.0,0.0,0.0
-147º,Porto Rico PRC,0.0,0.0,0.0,0.0
-148º,Qatar QAT,0.0,0.0,0.0,0.0
-149º,Quirguistão QUI,0.0,0.0,0.0,0.0
-150º,RD Congo COG,0.0,0.0,0.0,0.0
-151º,República Centro-Africana RCA,0.0,0.0,0.0,0.0
-152º,República Dominicana DOM,0.0,0.0,0.0,0.0
-153º,Ruanda RUA,0.0,0.0,0.0,0.0
-154º,São Tomé e Príncipe STP,0.0,0.0,0.0,0.0
-155º,São Vicente e Granadinas SVI,0.0,0.0,0.0,0.0
-156º,Senegal SEN,0.0,0.0,0.0,0.0
-157º,Serra Leoa SLE,0.0,0.0,0.0,0.0
-158º,Síria SIR,0.0,0.0,0.0,0.0
-159º,Somália SOM,0.0,0.0,0.0,0.0
-160º,Suriname SUR,0.0,0.0,0.0,0.0
-161º,Tanzânia TAN,0.0,0.0,0.0,0.0
-162º,Timor-Leste TIM,0.0,0.0,0.0,0.0
-163º,Togo TOG,0.0,0.0,0.0,0.0
-164º,Tonga TGA,0.0,0.0,0.0,0.0
-165º,Turcomenistão TCM,0.0,0.0,0.0,0.0
-166º,Uganda UGA,0.0,0.0,0.0,0.0
-167º,Uruguai URU,0.0,0.0,0.0,0.0
-168º,Vanuatu VAN,0.0,0.0,0.0,0.0
-169º,Zâmbia ZAM,0.0,0.0,0.0,0.0
-170º,Zimbábue ZIM,0.0,0.0,0.0,0.0
-1º,China CHN,94.0,76.0,50.0,220.0
-2º,Brasil BRA,25.0,26.0,38.0,89.0
-3º,Ucrânia UCR,22.0,28.0,32.0,82.0
-4º,Itália ITA,24.0,15.0,32.0,71.0
-5º,Grã-Bretanha GBR,49.0,44.0,31.0,124.0
-6º,França FRA,19.0,28.0,28.0,75.0
-7º,Austrália AUS,18.0,17.0,28.0,63.0
-8º,Estados Unidos EUA,36.0,42.0,27.0,105.0
-9º,Alemanha ALE,10.0,14.0,25.0,49.0
-10º,Atletas Paralímpicos Neutros IPA,26.0,22.0,23.0,71.0
-11º,Espanha ESP,7.0,11.0,22.0,40.0
-12º,Japão JAP,14.0,10.0,17.0,41.0
-13º,Coreia do Sul CDS,6.0,10.0,14.0,30.0
-14º,Colômbia COL,7.0,7.0,14.0,28.0
-15º,Tailândia TAI,6.0,11.0,13.0,30.0
-16º,Índia IND,7.0,9.0,13.0,29.0
-17º,Holanda HOL,27.0,17.0,12.0,56.0
-18º,Turquia TUR,6.0,10.0,12.0,28.0
-19º,Canadá CAN,10.0,9.0,10.0,29.0
-20º,Polônia POL,8.0,6.0,9.0,23.0
-21º,México MEX,3.0,6.0,8.0,17.0
-22º,Argentina ARG,2.0,3.0,8.0,13.0
-23º,Irã IRA,8.0,10.0,7.0,25.0
-24º,Uzbequistão UZB,10.0,9.0,7.0,26.0
-25º,Grécia GRE,3.0,3.0,7.0,13.0
-26º,Marrocos MAR,3.0,6.0,6.0,15.0
-27º,Suíça SUI,8.0,8.0,5.0,21.0
-28º,Indonésia INS,1.0,8.0,5.0,14.0
-29º,Dinamarca DIN,2.0,3.0,5.0,10.0
-30º,Azerbaijão AZE,4.0,2.0,5.0,11.0
-31º,Argélia ALG,6.0,0.0,5.0,11.0
-32º,Chile CHI,1.0,0.0,5.0,6.0
-33º,Hungria HUN,5.0,6.0,4.0,15.0
-34º,Geórgia GEO,1.0,4.0,4.0,9.0
-35º,Nova Zelândia NZL,1.0,4.0,4.0,9.0
-36º,Cazaquistão CAZ,2.0,3.0,4.0,9.0
-37º,Israel ISR,4.0,2.0,4.0,10.0
-38º,Portugal POR,2.0,1.0,4.0,7.0
-39º,África do Sul AFS,2.0,0.0,4.0,6.0
-40º,Bélgica BEL,7.0,4.0,3.0,14.0
-41º,República Tcheca TCH,1.0,4.0,3.0,8.0
-42º,Tunísia TUN,5.0,3.0,3.0,11.0
-43º,Noruega NOR,1.0,3.0,3.0,7.0
-44º,Egito EGI,2.0,2.0,3.0,7.0
-45º,Iraque IRQ,1.0,1.0,3.0,5.0
-46º,Finlândia FIN,0.0,1.0,3.0,4.0
-47º,Nigéria NGR,2.0,3.0,2.0,7.0
-48º,Irlanda IRL,1.0,3.0,2.0,6.0
-49º,Sérvia SER,1.0,3.0,2.0,6.0
-50º,Taiwan TAW,0.0,3.0,2.0,5.0
-51º,Croácia CRO,1.0,1.0,2.0,4.0
-52º,Suécia SUE,0.0,1.0,2.0,3.0
-53º,Equador EQU,2.0,0.0,2.0,4.0
-54º,Atletas Paraolímpicos Refugiados APR,0.0,0.0,2.0,2.0
-55º,Hong Kong HKG,3.0,4.0,1.0,8.0
-56º,Cuba CUB,6.0,3.0,1.0,10.0
-57º,Áustria AUT,0.0,3.0,1.0,4.0
-58º,Venezuela VEN,3.0,2.0,1.0,6.0
-59º,Malásia MAL,2.0,2.0,1.0,5.0
-60º,Chipre CHP,0.0,1.0,1.0,2.0
-61º,Moldávia MOL,0.0,1.0,1.0,2.0
-62º,Jordânia JOR,2.0,0.0,1.0,3.0
-63º,Eslovênia ESL,1.0,0.0,1.0,2.0
-64º,Kuwait KUA,1.0,0.0,1.0,2.0
-65º,Namíbia NAM,1.0,0.0,1.0,2.0
-66º,Romênia ROM,1.0,0.0,1.0,2.0
-67º,Lituânia LIT,0.0,0.0,1.0,1.0
-68º,Luxemburgo LUX,0.0,0.0,1.0,1.0
-69º,Maurício MRI,0.0,0.0,1.0,1.0
-70º,Montenegro MNE,0.0,0.0,1.0,1.0
-71º,Nepal NEP,0.0,0.0,1.0,1.0
-72º,Paquistão PAQ,0.0,0.0,1.0,1.0
-73º,Vietnã VIE,0.0,0.0,1.0,1.0
-74º,Mongólia MOG,1.0,3.0,0.0,4.0
-75º,Eslováquia ESV,3.0,2.0,0.0,5.0
-76º,Bósnia e Herzegovina BOS,0.0,2.0,0.0,2.0
-77º,Letônia LET,3.0,1.0,0.0,4.0
-78º,Cingapura CIN,2.0,1.0,0.0,3.0
-79º,Etiópia ETI,2.0,1.0,0.0,3.0
-80º,Quênia QUE,0.0,1.0,0.0,1.0
-81º,Sri Lanka SRI,0.0,1.0,0.0,1.0
-82º,Trinidad e Tobago TRI,0.0,1.0,0.0,1.0
-83º,Costa Rica COS,2.0,0.0,0.0,2.0
-84º,Arábia Saudita ARS,1.0,0.0,0.0,1.0
-85º,Bulgária BUL,1.0,0.0,0.0,1.0
-86º,Peru PER,1.0,0.0,0.0,1.0
-87º,Afeganistão AFE,0.0,0.0,0.0,0.0
-88º,Angola ANG,0.0,0.0,0.0,0.0
-89º,Armênia ARM,0.0,0.0,0.0,0.0
-90º,Aruba ARU,0.0,0.0,0.0,0.0
-91º,Bahrein BRN,0.0,0.0,0.0,0.0
-92º,Bangladesh BAN,0.0,0.0,0.0,0.0
-93º,Barbados BAR,0.0,0.0,0.0,0.0
-94º,Benin BEN,0.0,0.0,0.0,0.0
-95º,Bermudas BER,0.0,0.0,0.0,0.0
-96º,Botsuana BOT,0.0,0.0,0.0,0.0
-97º,Burkina Faso BFA,0.0,0.0,0.0,0.0
-98º,Burundi BUR,0.0,0.0,0.0,0.0
-99º,Butão BUT,0.0,0.0,0.0,0.0
-100º,Cabo Verde CBV,0.0,0.0,0.0,0.0
-101º,Camarões CAM,0.0,0.0,0.0,0.0
-102º,Camboja CBJ,0.0,0.0,0.0,0.0
-103º,Congo CON,0.0,0.0,0.0,0.0
-104º,Costa do Marfim CMA,0.0,0.0,0.0,0.0
-105º,El Salvador ESA,0.0,0.0,0.0,0.0
-106º,Emirados Árabes Unidos EAU,0.0,0.0,0.0,0.0
-107º,Eritreia ERI,0.0,0.0,0.0,0.0
-108º,Estônia EST,0.0,0.0,0.0,0.0
-109º,Fiji FIJ,0.0,0.0,0.0,0.0
-110º,Filipinas FIL,0.0,0.0,0.0,0.0
-111º,Gabão GAB,0.0,0.0,0.0,0.0
-112º,Gâmbia GAM,0.0,0.0,0.0,0.0
-113º,Gana GAN,0.0,0.0,0.0,0.0
-114º,Granada GRA,0.0,0.0,0.0,0.0
-115º,Guatemala GUA,0.0,0.0,0.0,0.0
-116º,Guiné GUI,0.0,0.0,0.0,0.0
-117º,Guiné-Bissau GUB,0.0,0.0,0.0,0.0
-118º,Haiti HAI,0.0,0.0,0.0,0.0
-119º,Honduras HON,0.0,0.0,0.0,0.0
-120º,Iêmen IEM,0.0,0.0,0.0,0.0
-121º,Ilhas Salomão ISA,0.0,0.0,0.0,0.0
-122º,Ilhas Virgens Norte-Americanas IVI,0.0,0.0,0.0,0.0
-123º,Islândia ISL,0.0,0.0,0.0,0.0
-124º,Jamaica JAM,0.0,0.0,0.0,0.0
-125º,Kiribati KIR,0.0,0.0,0.0,0.0
-126º,Kosovo KOS,0.0,0.0,0.0,0.0
-127º,Laos LAO,0.0,0.0,0.0,0.0
-128º,Lesoto LES,0.0,0.0,0.0,0.0
-129º,Líbano LIB,0.0,0.0,0.0,0.0
-130º,Libéria LBR,0.0,0.0,0.0,0.0
-131º,Líbia LBA,0.0,0.0,0.0,0.0
-132º,Macau MAC,0.0,0.0,0.0,0.0
-133º,Macedônia MAC,0.0,0.0,0.0,0.0
-134º,Malauí MLU,0.0,0.0,0.0,0.0
-135º,Maldivas MLD,0.0,0.0,0.0,0.0
-136º,Mali MLI,0.0,0.0,0.0,0.0
-137º,Malta MLT,0.0,0.0,0.0,0.0
-138º,Mianmar MIA,0.0,0.0,0.0,0.0
-139º,Moçambique MOC,0.0,0.0,0.0,0.0
-140º,Nicarágua NIC,0.0,0.0,0.0,0.0
-141º,Níger NIG,0.0,0.0,0.0,0.0
-142º,Omã OMA,0.0,0.0,0.0,0.0
-143º,Palestina PAL,0.0,0.0,0.0,0.0
-144º,Panamá PAN,0.0,0.0,0.0,0.0
-145º,Papua-Nova Guiné PNG,0.0,0.0,0.0,0.0
-146º,Paraguai PAR,0.0,0.0,0.0,0.0
-147º,Porto Rico PRC,0.0,0.0,0.0,0.0
-148º,Qatar QAT,0.0,0.0,0.0,0.0
-149º,Quirguistão QUI,0.0,0.0,0.0,0.0
-150º,RD Congo COG,0.0,0.0,0.0,0.0
-151º,República Centro-Africana RCA,0.0,0.0,0.0,0.0
-152º,República Dominicana DOM,0.0,0.0,0.0,0.0
-153º,Ruanda RUA,0.0,0.0,0.0,0.0
-154º,São Tomé e Príncipe STP,0.0,0.0,0.0,0.0
-155º,São Vicente e Granadinas SVI,0.0,0.0,0.0,0.0
-156º,Senegal SEN,0.0,0.0,0.0,0.0
-157º,Serra Leoa SLE,0.0,0.0,0.0,0.0
-158º,Síria SIR,0.0,0.0,0.0,0.0
-159º,Somália SOM,0.0,0.0,0.0,0.0
-160º,Suriname SUR,0.0,0.0,0.0,0.0
-161º,Tanzânia TAN,0.0,0.0,0.0,0.0
-162º,Timor-Leste TIM,0.0,0.0,0.0,0.0
-163º,Togo TOG,0.0,0.0,0.0,0.0
-164º,Tonga TGA,0.0,0.0,0.0,0.0
-165º,Turcomenistão TCM,0.0,0.0,0.0,0.0
-166º,Uganda UGA,0.0,0.0,0.0,0.0
-167º,Uruguai URU,0.0,0.0,0.0,0.0
-168º,Vanuatu VAN,0.0,0.0,0.0,0.0
-169º,Zâmbia ZAM,0.0,0.0,0.0,0.0
-170º,Zimbábue ZIM,0.0,0.0,0.0,0.0
-1º,China CHN,94.0,76.0,50.0,220.0
-2º,Grã-Bretanha GBR,49.0,44.0,31.0,124.0
-3º,Estados Unidos EUA,36.0,42.0,27.0,105.0
-4º,Brasil BRA,25.0,26.0,38.0,89.0
-5º,Ucrânia UCR,22.0,28.0,32.0,82.0
-6º,França FRA,19.0,28.0,28.0,75.0
-7º,Itália ITA,24.0,15.0,32.0,71.0
-8º,Atletas Paralímpicos Neutros IPA,26.0,22.0,23.0,71.0
-9º,Austrália AUS,18.0,17.0,28.0,63.0
-10º,Holanda HOL,27.0,17.0,12.0,56.0
-11º,Alemanha ALE,10.0,14.0,25.0,49.0
-12º,Japão JAP,14.0,10.0,17.0,41.0
-13º,Espanha ESP,7.0,11.0,22.0,40.0
-14º,Coreia do Sul CDS,6.0,10.0,14.0,30.0
-15º,Tailândia TAI,6.0,11.0,13.0,30.0
-16º,Índia IND,7.0,9.0,13.0,29.0
-17º,Canadá CAN,10.0,9.0,10.0,29.0
-18º,Colômbia COL,7.0,7.0,14.0,28.0
-19º,Turquia TUR,6.0,10.0,12.0,28.0
-20º,Uzbequistão UZB,10.0,9.0,7.0,26.0
-21º,Irã IRA,8.0,10.0,7.0,25.0
-22º,Polônia POL,8.0,6.0,9.0,23.0
-23º,Suíça SUI,8.0,8.0,5.0,21.0
-24º,México MEX,3.0,6.0,8.0,17.0
-25º,Marrocos MAR,3.0,6.0,6.0,15.0
-26º,Hungria HUN,5.0,6.0,4.0,15.0
-27º,Indonésia INS,1.0,8.0,5.0,14.0
-28º,Bélgica BEL,7.0,4.0,3.0,14.0
-29º,Argentina ARG,2.0,3.0,8.0,13.0
-30º,Grécia GRE,3.0,3.0,7.0,13.0
-31º,Azerbaijão AZE,4.0,2.0,5.0,11.0
-32º,Argélia ALG,6.0,0.0,5.0,11.0
-33º,Tunísia TUN,5.0,3.0,3.0,11.0
-34º,Dinamarca DIN,2.0,3.0,5.0,10.0
-35º,Israel ISR,4.0,2.0,4.0,10.0
-36º,Cuba CUB,6.0,3.0,1.0,10.0
-37º,Geórgia GEO,1.0,4.0,4.0,9.0
-38º,Nova Zelândia NZL,1.0,4.0,4.0,9.0
-39º,Cazaquistão CAZ,2.0,3.0,4.0,9.0
-40º,República Tcheca TCH,1.0,4.0,3.0,8.0
-41º,Hong Kong HKG,3.0,4.0,1.0,8.0
-42º,Portugal POR,2.0,1.0,4.0,7.0
-43º,Noruega NOR,1.0,3.0,3.0,7.0
-44º,Egito EGI,2.0,2.0,3.0,7.0
-45º,Nigéria NGR,2.0,3.0,2.0,7.0
-46º,Chile CHI,1.0,0.0,5.0,6.0
-47º,África do Sul AFS,2.0,0.0,4.0,6.0
-48º,Irlanda IRL,1.0,3.0,2.0,6.0
-49º,Sérvia SER,1.0,3.0,2.0,6.0
-50º,Venezuela VEN,3.0,2.0,1.0,6.0
-51º,Iraque IRQ,1.0,1.0,3.0,5.0
-52º,Taiwan TAW,0.0,3.0,2.0,5.0
-53º,Malásia MAL,2.0,2.0,1.0,5.0
-54º,Eslováquia ESV,3.0,2.0,0.0,5.0
-55º,Finlândia FIN,0.0,1.0,3.0,4.0
-56º,Croácia CRO,1.0,1.0,2.0,4.0
-57º,Equador EQU,2.0,0.0,2.0,4.0
-58º,Áustria AUT,0.0,3.0,1.0,4.0
-59º,Mongólia MOG,1.0,3.0,0.0,4.0
-60º,Letônia LET,3.0,1.0,0.0,4.0
-61º,Suécia SUE,0.0,1.0,2.0,3.0
-62º,Jordânia JOR,2.0,0.0,1.0,3.0
-63º,Cingapura CIN,2.0,1.0,0.0,3.0
-64º,Etiópia ETI,2.0,1.0,0.0,3.0
-65º,Atletas Paraolímpicos Refugiados APR,0.0,0.0,2.0,2.0
-66º,Chipre CHP,0.0,1.0,1.0,2.0
-67º,Moldávia MOL,0.0,1.0,1.0,2.0
-68º,Eslovênia ESL,1.0,0.0,1.0,2.0
-69º,Kuwait KUA,1.0,0.0,1.0,2.0
-70º,Namíbia NAM,1.0,0.0,1.0,2.0
-71º,Romênia ROM,1.0,0.0,1.0,2.0
-72º,Bósnia e Herzegovina BOS,0.0,2.0,0.0,2.0
-73º,Costa Rica COS,2.0,0.0,0.0,2.0
-74º,Lituânia LIT,0.0,0.0,1.0,1.0
-75º,Luxemburgo LUX,0.0,0.0,1.0,1.0
-76º,Maurício MRI,0.0,0.0,1.0,1.0
-77º,Montenegro MNE,0.0,0.0,1.0,1.0
-78º,Nepal NEP,0.0,0.0,1.0,1.0
-79º,Paquistão PAQ,0.0,0.0,1.0,1.0
-80º,Vietnã VIE,0.0,0.0,1.0,1.0
-81º,Quênia QUE,0.0,1.0,0.0,1.0
-82º,Sri Lanka SRI,0.0,1.0,0.0,1.0
-83º,Trinidad e Tobago TRI,0.0,1.0,0.0,1.0
-84º,Arábia Saudita ARS,1.0,0.0,0.0,1.0
-85º,Bulgária BUL,1.0,0.0,0.0,1.0
-86º,Peru PER,1.0,0.0,0.0,1.0
-87º,Afeganistão AFE,0.0,0.0,0.0,0.0
-88º,Angola ANG,0.0,0.0,0.0,0.0
-89º,Armênia ARM,0.0,0.0,0.0,0.0
-90º,Aruba ARU,0.0,0.0,0.0,0.0
-91º,Bahrein BRN,0.0,0.0,0.0,0.0
-92º,Bangladesh BAN,0.0,0.0,0.0,0.0
-93º,Barbados BAR,0.0,0.0,0.0,0.0
-94º,Benin BEN,0.0,0.0,0.0,0.0
-95º,Bermudas BER,0.0,0.0,0.0,0.0
-96º,Botsuana BOT,0.0,0.0,0.0,0.0
-97º,Burkina Faso BFA,0.0,0.0,0.0,0.0
-98º,Burundi BUR,0.0,0.0,0.0,0.0
-99º,Butão BUT,0.0,0.0,0.0,0.0
-100º,Cabo Verde CBV,0.0,0.0,0.0,0.0
-101º,Camarões CAM,0.0,0.0,0.0,0.0
-102º,Camboja CBJ,0.0,0.0,0.0,0.0
-103º,Congo CON,0.0,0.0,0.0,0.0
-104º,Costa do Marfim CMA,0.0,0.0,0.0,0.0
-105º,El Salvador ESA,0.0,0.0,0.0,0.0
-106º,Emirados Árabes Unidos EAU,0.0,0.0,0.0,0.0
-107º,Eritreia ERI,0.0,0.0,0.0,0.0
-108º,Estônia EST,0.0,0.0,0.0,0.0
-109º,Fiji FIJ,0.0,0.0,0.0,0.0
-110º,Filipinas FIL,0.0,0.0,0.0,0.0
-111º,Gabão GAB,0.0,0.0,0.0,0.0
-112º,Gâmbia GAM,0.0,0.0,0.0,0.0
-113º,Gana GAN,0.0,0.0,0.0,0.0
-114º,Granada GRA,0.0,0.0,0.0,0.0
-115º,Guatemala GUA,0.0,0.0,0.0,0.0
-116º,Guiné GUI,0.0,0.0,0.0,0.0
-117º,Guiné-Bissau GUB,0.0,0.0,0.0,0.0
-118º,Haiti HAI,0.0,0.0,0.0,0.0
-119º,Honduras HON,0.0,0.0,0.0,0.0
-120º,Iêmen IEM,0.0,0.0,0.0,0.0
-121º,Ilhas Salomão ISA,0.0,0.0,0.0,0.0
-122º,Ilhas Virgens Norte-Americanas IVI,0.0,0.0,0.0,0.0
-123º,Islândia ISL,0.0,0.0,0.0,0.0
-124º,Jamaica JAM,0.0,0.0,0.0,0.0
-125º,Kiribati KIR,0.0,0.0,0.0,0.0
-126º,Kosovo KOS,0.0,0.0,0.0,0.0
-127º,Laos LAO,0.0,0.0,0.0,0.0
-128º,Lesoto LES,0.0,0.0,0.0,0.0
-129º,Líbano LIB,0.0,0.0,0.0,0.0
-130º,Libéria LBR,0.0,0.0,0.0,0.0
-131º,Líbia LBA,0.0,0.0,0.0,0.0
-132º,Macau MAC,0.0,0.0,0.0,0.0
-133º,Macedônia MAC,0.0,0.0,0.0,0.0
-134º,Malauí MLU,0.0,0.0,0.0,0.0
-135º,Maldivas MLD,0.0,0.0,0.0,0.0
-136º,Mali MLI,0.0,0.0,0.0,0.0
-137º,Malta MLT,0.0,0.0,0.0,0.0
-138º,Mianmar MIA,0.0,0.0,0.0,0.0
-139º,Moçambique MOC,0.0,0.0,0.0,0.0
-140º,Nicarágua NIC,0.0,0.0,0.0,0.0
-141º,Níger NIG,0.0,0.0,0.0,0.0
-142º,Omã OMA,0.0,0.0,0.0,0.0
-143º,Palestina PAL,0.0,0.0,0.0,0.0
-144º,Panamá PAN,0.0,0.0,0.0,0.0
-145º,Papua-Nova Guiné PNG,0.0,0.0,0.0,0.0
-146º,Paraguai PAR,0.0,0.0,0.0,0.0
-147º,Porto Rico PRC,0.0,0.0,0.0,0.0
-148º,Qatar QAT,0.0,0.0,0.0,0.0
-149º,Quirguistão QUI,0.0,0.0,0.0,0.0
-150º,RD Congo COG,0.0,0.0,0.0,0.0
-151º,República Centro-Africana RCA,0.0,0.0,0.0,0.0
-152º,República Dominicana DOM,0.0,0.0,0.0,0.0
-153º,Ruanda RUA,0.0,0.0,0.0,0.0
-154º,São Tomé e Príncipe STP,0.0,0.0,0.0,0.0
-155º,São Vicente e Granadinas SVI,0.0,0.0,0.0,0.0
-156º,Senegal SEN,0.0,0.0,0.0,0.0
-157º,Serra Leoa SLE,0.0,0.0,0.0,0.0
-158º,Síria SIR,0.0,0.0,0.0,0.0
-159º,Somália SOM,0.0,0.0,0.0,0.0
-160º,Suriname SUR,0.0,0.0,0.0,0.0
-161º,Tanzânia TAN,0.0,0.0,0.0,0.0
-162º,Timor-Leste TIM,0.0,0.0,0.0,0.0
-163º,Togo TOG,0.0,0.0,0.0,0.0
-164º,Tonga TGA,0.0,0.0,0.0,0.0
-165º,Turcomenistão TCM,0.0,0.0,0.0,0.0
-166º,Uganda UGA,0.0,0.0,0.0,0.0
-167º,Uruguai URU,0.0,0.0,0.0,0.0
-168º,Vanuatu VAN,0.0,0.0,0.0,0.0
-169º,Zâmbia ZAM,0.0,0.0,0.0,0.0
-170º,Zimbábue ZIM,0.0,0.0,0.0,0.0
+Posição,País,Medalhas de Ouro,Medalhas de Prata,Medalhas de Bronze,Total de Medalhas,URL
+1º,China CHN,94.0,76.0,50.0,220.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+2º,Grã-Bretanha GBR,49.0,44.0,31.0,124.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+3º,Estados Unidos EUA,36.0,42.0,27.0,105.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+4º,Ucrânia UCR,22.0,28.0,32.0,82.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+5º,França FRA,19.0,28.0,28.0,75.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+6º,Brasil BRA,25.0,26.0,38.0,89.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+7º,Atletas Paralímpicos Neutros IPA,26.0,22.0,23.0,71.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+8º,Holanda HOL,27.0,17.0,12.0,56.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+9º,Austrália AUS,18.0,17.0,28.0,63.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+10º,Itália ITA,24.0,15.0,32.0,71.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+11º,Alemanha ALE,10.0,14.0,25.0,49.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+12º,Espanha ESP,7.0,11.0,22.0,40.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+13º,Tailândia TAI,6.0,11.0,13.0,30.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+14º,Japão JAP,14.0,10.0,17.0,41.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+15º,Irã IRA,8.0,10.0,7.0,25.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+16º,Coreia do Sul CDS,6.0,10.0,14.0,30.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+17º,Turquia TUR,6.0,10.0,12.0,28.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+18º,Canadá CAN,10.0,9.0,10.0,29.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+19º,Uzbequistão UZB,10.0,9.0,7.0,26.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+20º,Índia IND,7.0,9.0,13.0,29.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+21º,Suíça SUI,8.0,8.0,5.0,21.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+22º,Indonésia INS,1.0,8.0,5.0,14.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+23º,Colômbia COL,7.0,7.0,14.0,28.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+24º,Polônia POL,8.0,6.0,9.0,23.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+25º,Hungria HUN,5.0,6.0,4.0,15.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+26º,México MEX,3.0,6.0,8.0,17.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+27º,Marrocos MAR,3.0,6.0,6.0,15.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+28º,Bélgica BEL,7.0,4.0,3.0,14.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+29º,Hong Kong HKG,3.0,4.0,1.0,8.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+30º,Geórgia GEO,1.0,4.0,4.0,9.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+31º,Nova Zelândia NZL,1.0,4.0,4.0,9.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+32º,República Tcheca TCH,1.0,4.0,3.0,8.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+33º,Cuba CUB,6.0,3.0,1.0,10.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+34º,Tunísia TUN,5.0,3.0,3.0,11.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+35º,Grécia GRE,3.0,3.0,7.0,13.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+36º,Argentina ARG,2.0,3.0,8.0,13.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+37º,Dinamarca DIN,2.0,3.0,5.0,10.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+38º,Cazaquistão CAZ,2.0,3.0,4.0,9.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+39º,Nigéria NGR,2.0,3.0,2.0,7.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+40º,Noruega NOR,1.0,3.0,3.0,7.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+41º,Irlanda IRL,1.0,3.0,2.0,6.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+42º,Sérvia SER,1.0,3.0,2.0,6.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+43º,Mongólia MOG,1.0,3.0,0.0,4.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+44º,Taiwan TAW,0.0,3.0,2.0,5.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+45º,Áustria AUT,0.0,3.0,1.0,4.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+46º,Azerbaijão AZE,4.0,2.0,5.0,11.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+47º,Israel ISR,4.0,2.0,4.0,10.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+48º,Venezuela VEN,3.0,2.0,1.0,6.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+49º,Eslováquia ESV,3.0,2.0,0.0,5.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+50º,Egito EGI,2.0,2.0,3.0,7.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+51º,Malásia MAL,2.0,2.0,1.0,5.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+52º,Bósnia e Herzegovina BOS,0.0,2.0,0.0,2.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+53º,Letônia LET,3.0,1.0,0.0,4.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+54º,Portugal POR,2.0,1.0,4.0,7.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+55º,Cingapura CIN,2.0,1.0,0.0,3.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+56º,Etiópia ETI,2.0,1.0,0.0,3.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+57º,Iraque IRQ,1.0,1.0,3.0,5.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+58º,Croácia CRO,1.0,1.0,2.0,4.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+59º,Finlândia FIN,0.0,1.0,3.0,4.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+60º,Suécia SUE,0.0,1.0,2.0,3.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+61º,Chipre CHP,0.0,1.0,1.0,2.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+62º,Moldávia MOL,0.0,1.0,1.0,2.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+63º,Quênia QUE,0.0,1.0,0.0,1.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+64º,Sri Lanka SRI,0.0,1.0,0.0,1.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+65º,Trinidad e Tobago TRI,0.0,1.0,0.0,1.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+66º,Argélia ALG,6.0,0.0,5.0,11.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+67º,África do Sul AFS,2.0,0.0,4.0,6.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+68º,Equador EQU,2.0,0.0,2.0,4.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+69º,Jordânia JOR,2.0,0.0,1.0,3.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+70º,Costa Rica COS,2.0,0.0,0.0,2.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+71º,Chile CHI,1.0,0.0,5.0,6.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+72º,Eslovênia ESL,1.0,0.0,1.0,2.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+73º,Kuwait KUA,1.0,0.0,1.0,2.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+74º,Namíbia NAM,1.0,0.0,1.0,2.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+75º,Romênia ROM,1.0,0.0,1.0,2.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+76º,Arábia Saudita ARS,1.0,0.0,0.0,1.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+77º,Bulgária BUL,1.0,0.0,0.0,1.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+78º,Peru PER,1.0,0.0,0.0,1.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+79º,Atletas Paraolímpicos Refugiados APR,0.0,0.0,2.0,2.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+80º,Lituânia LIT,0.0,0.0,1.0,1.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+81º,Luxemburgo LUX,0.0,0.0,1.0,1.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+82º,Maurício MRI,0.0,0.0,1.0,1.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+83º,Montenegro MNE,0.0,0.0,1.0,1.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+84º,Nepal NEP,0.0,0.0,1.0,1.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+85º,Paquistão PAQ,0.0,0.0,1.0,1.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+86º,Vietnã VIE,0.0,0.0,1.0,1.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+87º,Afeganistão AFE,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+88º,Angola ANG,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+89º,Armênia ARM,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+90º,Aruba ARU,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+91º,Bahrein BRN,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+92º,Bangladesh BAN,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+93º,Barbados BAR,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+94º,Benin BEN,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+95º,Bermudas BER,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+96º,Botsuana BOT,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+97º,Burkina Faso BFA,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+98º,Burundi BUR,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+99º,Butão BUT,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+100º,Cabo Verde CBV,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+101º,Camarões CAM,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+102º,Camboja CBJ,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+103º,Congo CON,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+104º,Costa do Marfim CMA,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+105º,El Salvador ESA,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+106º,Emirados Árabes Unidos EAU,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+107º,Eritreia ERI,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+108º,Estônia EST,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+109º,Fiji FIJ,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+110º,Filipinas FIL,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+111º,Gabão GAB,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+112º,Gâmbia GAM,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+113º,Gana GAN,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+114º,Granada GRA,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+115º,Guatemala GUA,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+116º,Guiné GUI,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+117º,Guiné-Bissau GUB,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+118º,Haiti HAI,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+119º,Honduras HON,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+120º,Iêmen IEM,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+121º,Ilhas Salomão ISA,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+122º,Ilhas Virgens Norte-Americanas IVI,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+123º,Islândia ISL,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+124º,Jamaica JAM,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+125º,Kiribati KIR,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+126º,Kosovo KOS,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+127º,Laos LAO,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+128º,Lesoto LES,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+129º,Líbano LIB,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+130º,Libéria LBR,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+131º,Líbia LBA,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+132º,Macau MAC,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+133º,Macedônia MAC,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+134º,Malauí MLU,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+135º,Maldivas MLD,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+136º,Mali MLI,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+137º,Malta MLT,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+138º,Mianmar MIA,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+139º,Moçambique MOC,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+140º,Nicarágua NIC,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+141º,Níger NIG,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+142º,Omã OMA,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+143º,Palestina PAL,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+144º,Panamá PAN,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+145º,Papua-Nova Guiné PNG,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+146º,Paraguai PAR,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+147º,Porto Rico PRC,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+148º,Qatar QAT,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+149º,Quirguistão QUI,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+150º,RD Congo COG,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+151º,República Centro-Africana RCA,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+152º,República Dominicana DOM,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+153º,Ruanda RUA,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+154º,São Tomé e Príncipe STP,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+155º,São Vicente e Granadinas SVI,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+156º,Senegal SEN,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+157º,Serra Leoa SLE,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+158º,Síria SIR,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+159º,Somália SOM,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+160º,Suriname SUR,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+161º,Tanzânia TAN,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+162º,Timor-Leste TIM,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+163º,Togo TOG,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+164º,Tonga TGA,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+165º,Turcomenistão TCM,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+166º,Uganda UGA,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+167º,Uruguai URU,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+168º,Vanuatu VAN,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+169º,Zâmbia ZAM,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+170º,Zimbábue ZIM,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+1º,China CHN,94.0,76.0,50.0,220.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+2º,Brasil BRA,25.0,26.0,38.0,89.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+3º,Ucrânia UCR,22.0,28.0,32.0,82.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+4º,Itália ITA,24.0,15.0,32.0,71.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+5º,Grã-Bretanha GBR,49.0,44.0,31.0,124.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+6º,França FRA,19.0,28.0,28.0,75.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+7º,Austrália AUS,18.0,17.0,28.0,63.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+8º,Estados Unidos EUA,36.0,42.0,27.0,105.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+9º,Alemanha ALE,10.0,14.0,25.0,49.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+10º,Atletas Paralímpicos Neutros IPA,26.0,22.0,23.0,71.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+11º,Espanha ESP,7.0,11.0,22.0,40.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+12º,Japão JAP,14.0,10.0,17.0,41.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+13º,Coreia do Sul CDS,6.0,10.0,14.0,30.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+14º,Colômbia COL,7.0,7.0,14.0,28.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+15º,Tailândia TAI,6.0,11.0,13.0,30.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+16º,Índia IND,7.0,9.0,13.0,29.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+17º,Holanda HOL,27.0,17.0,12.0,56.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+18º,Turquia TUR,6.0,10.0,12.0,28.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+19º,Canadá CAN,10.0,9.0,10.0,29.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+20º,Polônia POL,8.0,6.0,9.0,23.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+21º,México MEX,3.0,6.0,8.0,17.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+22º,Argentina ARG,2.0,3.0,8.0,13.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+23º,Irã IRA,8.0,10.0,7.0,25.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+24º,Uzbequistão UZB,10.0,9.0,7.0,26.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+25º,Grécia GRE,3.0,3.0,7.0,13.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+26º,Marrocos MAR,3.0,6.0,6.0,15.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+27º,Suíça SUI,8.0,8.0,5.0,21.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+28º,Indonésia INS,1.0,8.0,5.0,14.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+29º,Dinamarca DIN,2.0,3.0,5.0,10.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+30º,Azerbaijão AZE,4.0,2.0,5.0,11.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+31º,Argélia ALG,6.0,0.0,5.0,11.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+32º,Chile CHI,1.0,0.0,5.0,6.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+33º,Hungria HUN,5.0,6.0,4.0,15.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+34º,Geórgia GEO,1.0,4.0,4.0,9.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+35º,Nova Zelândia NZL,1.0,4.0,4.0,9.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+36º,Cazaquistão CAZ,2.0,3.0,4.0,9.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+37º,Israel ISR,4.0,2.0,4.0,10.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+38º,Portugal POR,2.0,1.0,4.0,7.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+39º,África do Sul AFS,2.0,0.0,4.0,6.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+40º,Bélgica BEL,7.0,4.0,3.0,14.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+41º,República Tcheca TCH,1.0,4.0,3.0,8.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+42º,Tunísia TUN,5.0,3.0,3.0,11.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+43º,Noruega NOR,1.0,3.0,3.0,7.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+44º,Egito EGI,2.0,2.0,3.0,7.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+45º,Iraque IRQ,1.0,1.0,3.0,5.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+46º,Finlândia FIN,0.0,1.0,3.0,4.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+47º,Nigéria NGR,2.0,3.0,2.0,7.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+48º,Irlanda IRL,1.0,3.0,2.0,6.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+49º,Sérvia SER,1.0,3.0,2.0,6.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+50º,Taiwan TAW,0.0,3.0,2.0,5.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+51º,Croácia CRO,1.0,1.0,2.0,4.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+52º,Suécia SUE,0.0,1.0,2.0,3.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+53º,Equador EQU,2.0,0.0,2.0,4.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+54º,Atletas Paraolímpicos Refugiados APR,0.0,0.0,2.0,2.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+55º,Hong Kong HKG,3.0,4.0,1.0,8.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+56º,Cuba CUB,6.0,3.0,1.0,10.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+57º,Áustria AUT,0.0,3.0,1.0,4.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+58º,Venezuela VEN,3.0,2.0,1.0,6.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+59º,Malásia MAL,2.0,2.0,1.0,5.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+60º,Chipre CHP,0.0,1.0,1.0,2.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+61º,Moldávia MOL,0.0,1.0,1.0,2.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+62º,Jordânia JOR,2.0,0.0,1.0,3.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+63º,Eslovênia ESL,1.0,0.0,1.0,2.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+64º,Kuwait KUA,1.0,0.0,1.0,2.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+65º,Namíbia NAM,1.0,0.0,1.0,2.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+66º,Romênia ROM,1.0,0.0,1.0,2.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+67º,Lituânia LIT,0.0,0.0,1.0,1.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+68º,Luxemburgo LUX,0.0,0.0,1.0,1.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+69º,Maurício MRI,0.0,0.0,1.0,1.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+70º,Montenegro MNE,0.0,0.0,1.0,1.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+71º,Nepal NEP,0.0,0.0,1.0,1.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+72º,Paquistão PAQ,0.0,0.0,1.0,1.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+73º,Vietnã VIE,0.0,0.0,1.0,1.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+74º,Mongólia MOG,1.0,3.0,0.0,4.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+75º,Eslováquia ESV,3.0,2.0,0.0,5.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+76º,Bósnia e Herzegovina BOS,0.0,2.0,0.0,2.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+77º,Letônia LET,3.0,1.0,0.0,4.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+78º,Cingapura CIN,2.0,1.0,0.0,3.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+79º,Etiópia ETI,2.0,1.0,0.0,3.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+80º,Quênia QUE,0.0,1.0,0.0,1.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+81º,Sri Lanka SRI,0.0,1.0,0.0,1.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+82º,Trinidad e Tobago TRI,0.0,1.0,0.0,1.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+83º,Costa Rica COS,2.0,0.0,0.0,2.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+84º,Arábia Saudita ARS,1.0,0.0,0.0,1.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+85º,Bulgária BUL,1.0,0.0,0.0,1.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+86º,Peru PER,1.0,0.0,0.0,1.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+87º,Afeganistão AFE,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+88º,Angola ANG,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+89º,Armênia ARM,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+90º,Aruba ARU,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+91º,Bahrein BRN,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+92º,Bangladesh BAN,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+93º,Barbados BAR,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+94º,Benin BEN,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+95º,Bermudas BER,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+96º,Botsuana BOT,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+97º,Burkina Faso BFA,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+98º,Burundi BUR,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+99º,Butão BUT,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+100º,Cabo Verde CBV,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+101º,Camarões CAM,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+102º,Camboja CBJ,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+103º,Congo CON,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+104º,Costa do Marfim CMA,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+105º,El Salvador ESA,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+106º,Emirados Árabes Unidos EAU,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+107º,Eritreia ERI,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+108º,Estônia EST,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+109º,Fiji FIJ,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+110º,Filipinas FIL,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+111º,Gabão GAB,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+112º,Gâmbia GAM,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+113º,Gana GAN,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+114º,Granada GRA,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+115º,Guatemala GUA,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+116º,Guiné GUI,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+117º,Guiné-Bissau GUB,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+118º,Haiti HAI,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+119º,Honduras HON,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+120º,Iêmen IEM,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+121º,Ilhas Salomão ISA,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+122º,Ilhas Virgens Norte-Americanas IVI,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+123º,Islândia ISL,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+124º,Jamaica JAM,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+125º,Kiribati KIR,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+126º,Kosovo KOS,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+127º,Laos LAO,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+128º,Lesoto LES,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+129º,Líbano LIB,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+130º,Libéria LBR,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+131º,Líbia LBA,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+132º,Macau MAC,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+133º,Macedônia MAC,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+134º,Malauí MLU,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+135º,Maldivas MLD,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+136º,Mali MLI,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+137º,Malta MLT,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+138º,Mianmar MIA,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+139º,Moçambique MOC,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+140º,Nicarágua NIC,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+141º,Níger NIG,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+142º,Omã OMA,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+143º,Palestina PAL,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+144º,Panamá PAN,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+145º,Papua-Nova Guiné PNG,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+146º,Paraguai PAR,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+147º,Porto Rico PRC,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+148º,Qatar QAT,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+149º,Quirguistão QUI,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+150º,RD Congo COG,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+151º,República Centro-Africana RCA,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+152º,República Dominicana DOM,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+153º,Ruanda RUA,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+154º,São Tomé e Príncipe STP,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+155º,São Vicente e Granadinas SVI,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+156º,Senegal SEN,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+157º,Serra Leoa SLE,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+158º,Síria SIR,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+159º,Somália SOM,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+160º,Suriname SUR,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+161º,Tanzânia TAN,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+162º,Timor-Leste TIM,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+163º,Togo TOG,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+164º,Tonga TGA,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+165º,Turcomenistão TCM,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+166º,Uganda UGA,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+167º,Uruguai URU,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+168º,Vanuatu VAN,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+169º,Zâmbia ZAM,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+170º,Zimbábue ZIM,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+1º,China CHN,94.0,76.0,50.0,220.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+2º,Grã-Bretanha GBR,49.0,44.0,31.0,124.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+3º,Estados Unidos EUA,36.0,42.0,27.0,105.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+4º,Brasil BRA,25.0,26.0,38.0,89.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+5º,Ucrânia UCR,22.0,28.0,32.0,82.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+6º,França FRA,19.0,28.0,28.0,75.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+7º,Itália ITA,24.0,15.0,32.0,71.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+8º,Atletas Paralímpicos Neutros IPA,26.0,22.0,23.0,71.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+9º,Austrália AUS,18.0,17.0,28.0,63.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+10º,Holanda HOL,27.0,17.0,12.0,56.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+11º,Alemanha ALE,10.0,14.0,25.0,49.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+12º,Japão JAP,14.0,10.0,17.0,41.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+13º,Espanha ESP,7.0,11.0,22.0,40.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+14º,Coreia do Sul CDS,6.0,10.0,14.0,30.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+15º,Tailândia TAI,6.0,11.0,13.0,30.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+16º,Índia IND,7.0,9.0,13.0,29.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+17º,Canadá CAN,10.0,9.0,10.0,29.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+18º,Colômbia COL,7.0,7.0,14.0,28.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+19º,Turquia TUR,6.0,10.0,12.0,28.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+20º,Uzbequistão UZB,10.0,9.0,7.0,26.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+21º,Irã IRA,8.0,10.0,7.0,25.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+22º,Polônia POL,8.0,6.0,9.0,23.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+23º,Suíça SUI,8.0,8.0,5.0,21.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+24º,México MEX,3.0,6.0,8.0,17.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+25º,Marrocos MAR,3.0,6.0,6.0,15.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+26º,Hungria HUN,5.0,6.0,4.0,15.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+27º,Indonésia INS,1.0,8.0,5.0,14.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+28º,Bélgica BEL,7.0,4.0,3.0,14.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+29º,Argentina ARG,2.0,3.0,8.0,13.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+30º,Grécia GRE,3.0,3.0,7.0,13.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+31º,Azerbaijão AZE,4.0,2.0,5.0,11.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+32º,Argélia ALG,6.0,0.0,5.0,11.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+33º,Tunísia TUN,5.0,3.0,3.0,11.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+34º,Dinamarca DIN,2.0,3.0,5.0,10.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+35º,Israel ISR,4.0,2.0,4.0,10.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+36º,Cuba CUB,6.0,3.0,1.0,10.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+37º,Geórgia GEO,1.0,4.0,4.0,9.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+38º,Nova Zelândia NZL,1.0,4.0,4.0,9.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+39º,Cazaquistão CAZ,2.0,3.0,4.0,9.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+40º,República Tcheca TCH,1.0,4.0,3.0,8.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+41º,Hong Kong HKG,3.0,4.0,1.0,8.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+42º,Portugal POR,2.0,1.0,4.0,7.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+43º,Noruega NOR,1.0,3.0,3.0,7.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+44º,Egito EGI,2.0,2.0,3.0,7.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+45º,Nigéria NGR,2.0,3.0,2.0,7.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+46º,Chile CHI,1.0,0.0,5.0,6.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+47º,África do Sul AFS,2.0,0.0,4.0,6.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+48º,Irlanda IRL,1.0,3.0,2.0,6.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+49º,Sérvia SER,1.0,3.0,2.0,6.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+50º,Venezuela VEN,3.0,2.0,1.0,6.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+51º,Iraque IRQ,1.0,1.0,3.0,5.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+52º,Taiwan TAW,0.0,3.0,2.0,5.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+53º,Malásia MAL,2.0,2.0,1.0,5.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+54º,Eslováquia ESV,3.0,2.0,0.0,5.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+55º,Finlândia FIN,0.0,1.0,3.0,4.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+56º,Croácia CRO,1.0,1.0,2.0,4.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+57º,Equador EQU,2.0,0.0,2.0,4.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+58º,Áustria AUT,0.0,3.0,1.0,4.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+59º,Mongólia MOG,1.0,3.0,0.0,4.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+60º,Letônia LET,3.0,1.0,0.0,4.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+61º,Suécia SUE,0.0,1.0,2.0,3.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+62º,Jordânia JOR,2.0,0.0,1.0,3.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+63º,Cingapura CIN,2.0,1.0,0.0,3.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+64º,Etiópia ETI,2.0,1.0,0.0,3.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+65º,Atletas Paraolímpicos Refugiados APR,0.0,0.0,2.0,2.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+66º,Chipre CHP,0.0,1.0,1.0,2.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+67º,Moldávia MOL,0.0,1.0,1.0,2.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+68º,Eslovênia ESL,1.0,0.0,1.0,2.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+69º,Kuwait KUA,1.0,0.0,1.0,2.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+70º,Namíbia NAM,1.0,0.0,1.0,2.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+71º,Romênia ROM,1.0,0.0,1.0,2.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+72º,Bósnia e Herzegovina BOS,0.0,2.0,0.0,2.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+73º,Costa Rica COS,2.0,0.0,0.0,2.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+74º,Lituânia LIT,0.0,0.0,1.0,1.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+75º,Luxemburgo LUX,0.0,0.0,1.0,1.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+76º,Maurício MRI,0.0,0.0,1.0,1.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+77º,Montenegro MNE,0.0,0.0,1.0,1.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+78º,Nepal NEP,0.0,0.0,1.0,1.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+79º,Paquistão PAQ,0.0,0.0,1.0,1.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+80º,Vietnã VIE,0.0,0.0,1.0,1.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+81º,Quênia QUE,0.0,1.0,0.0,1.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+82º,Sri Lanka SRI,0.0,1.0,0.0,1.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+83º,Trinidad e Tobago TRI,0.0,1.0,0.0,1.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+84º,Arábia Saudita ARS,1.0,0.0,0.0,1.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+85º,Bulgária BUL,1.0,0.0,0.0,1.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+86º,Peru PER,1.0,0.0,0.0,1.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+87º,Afeganistão AFE,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+88º,Angola ANG,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+89º,Armênia ARM,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+90º,Aruba ARU,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+91º,Bahrein BRN,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+92º,Bangladesh BAN,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+93º,Barbados BAR,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+94º,Benin BEN,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+95º,Bermudas BER,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+96º,Botsuana BOT,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+97º,Burkina Faso BFA,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+98º,Burundi BUR,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+99º,Butão BUT,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+100º,Cabo Verde CBV,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+101º,Camarões CAM,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+102º,Camboja CBJ,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+103º,Congo CON,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+104º,Costa do Marfim CMA,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+105º,El Salvador ESA,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+106º,Emirados Árabes Unidos EAU,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+107º,Eritreia ERI,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+108º,Estônia EST,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+109º,Fiji FIJ,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+110º,Filipinas FIL,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+111º,Gabão GAB,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+112º,Gâmbia GAM,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+113º,Gana GAN,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+114º,Granada GRA,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+115º,Guatemala GUA,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+116º,Guiné GUI,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+117º,Guiné-Bissau GUB,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+118º,Haiti HAI,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+119º,Honduras HON,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+120º,Iêmen IEM,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+121º,Ilhas Salomão ISA,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+122º,Ilhas Virgens Norte-Americanas IVI,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+123º,Islândia ISL,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+124º,Jamaica JAM,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+125º,Kiribati KIR,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+126º,Kosovo KOS,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+127º,Laos LAO,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+128º,Lesoto LES,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+129º,Líbano LIB,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+130º,Libéria LBR,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+131º,Líbia LBA,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+132º,Macau MAC,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+133º,Macedônia MAC,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+134º,Malauí MLU,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+135º,Maldivas MLD,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+136º,Mali MLI,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+137º,Malta MLT,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+138º,Mianmar MIA,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+139º,Moçambique MOC,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+140º,Nicarágua NIC,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+141º,Níger NIG,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+142º,Omã OMA,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+143º,Palestina PAL,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+144º,Panamá PAN,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+145º,Papua-Nova Guiné PNG,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+146º,Paraguai PAR,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+147º,Porto Rico PRC,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+148º,Qatar QAT,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+149º,Quirguistão QUI,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+150º,RD Congo COG,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+151º,República Centro-Africana RCA,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+152º,República Dominicana DOM,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+153º,Ruanda RUA,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+154º,São Tomé e Príncipe STP,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+155º,São Vicente e Granadinas SVI,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+156º,Senegal SEN,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+157º,Serra Leoa SLE,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+158º,Síria SIR,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+159º,Somália SOM,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+160º,Suriname SUR,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+161º,Tanzânia TAN,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+162º,Timor-Leste TIM,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+163º,Togo TOG,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+164º,Tonga TGA,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+165º,Turcomenistão TCM,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+166º,Uganda UGA,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+167º,Uruguai URU,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+168º,Vanuatu VAN,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+169º,Zâmbia ZAM,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
+170º,Zimbábue ZIM,0.0,0.0,0.0,0.0,https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/
