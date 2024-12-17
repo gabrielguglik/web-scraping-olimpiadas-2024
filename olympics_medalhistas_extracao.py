@@ -23,7 +23,7 @@ try:
         print("Botão de cookies não encontrado ou já aceito:", e)
 
     element = WebDriverWait(driver, 10).until(
-        EC.element_to_be_clickable((By.XPATH, "//div[@class='emotion-srm-qxpeqb']"))
+        EC.element_to_be_clickable((By.XPATH, "//div[@class='emotion-srm-uu0gdl']"))
     ) # Aguarda o elemento desejado estar clicável
     element.click()
     print("Elemento clicado com sucesso.")

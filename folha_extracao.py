@@ -8,7 +8,6 @@ from selenium.webdriver.common.by import By
 import json
 
 # pegando o conteúdo da url
-
 url = "https://www1.folha.uol.com.br/esporte/olimpiadas-2024/medalhas/paralimpiada/"
 placar_medalhas = {}
 
@@ -20,7 +19,6 @@ rankings = {
 }
 
 def buildRank(type):
-
     field = rankings[type]['field']
 
     driver.find_element(By.XPATH, f"//button[{field}]").click()
@@ -34,9 +32,10 @@ def buildRank(type):
     # extraindo os dados em um data frame com pandas
     raw_data_frame = pd.read_html(StringIO(str(table)))[0]
     fixed_data_frame = raw_data_frame.dropna()
+    
     # renomeando as colunas
     fixed_data_frame.columns = ['Posição', 'País', 'Medalhas de Ouro', 'Medalhas de Prata', 'Medalhas de Bronze', 'Total de Medalhas']
-
+    
     # transformando os dados em um dicionário próprio
     return fixed_data_frame.to_dict('records')
 
@@ -54,9 +53,19 @@ for type in rankings:
 # fechando a página após extrair os dados
 driver.quit()
 
-# salvando o dicionário próprio em um json
-json = json.dumps(placar_medalhas,  ensure_ascii=False)
-fp = open('folha_extracao.json', 'w')
+# Salvando os dados no formato JSON
+json_data = json.dumps(placar_medalhas, ensure_ascii=False, indent=4)
 with open('folha_extracao.json', 'w', encoding='utf-8') as fp:
-    fp.write(json)
-fp.close()
+    fp.write(json_data)
+
+# Criando o DataFrame e salvando como CSV
+all_data = []
+for type in placar_medalhas:
+    all_data.extend(placar_medalhas[type])
+
+df = pd.DataFrame(all_data)
+
+# Salvando o DataFrame em um arquivo CSV
+df.to_csv('folha_extracao.csv', index=False, encoding='utf-8')
+
+print("Dados salvos em folha_extracao.csv")
