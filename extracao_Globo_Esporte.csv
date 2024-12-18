@@ -1,21 +1,21 @@
-Nome do Atleta,Medalha,Esporte
-Rebeca Andrade,Ouro,ginástica artística
-Beatriz Souza,Ouro,judô
-Duda/Ana Patrícia,Ouro,vôlei de praia
-Isaquias Queiroz,Prata,canoagem de velocidade
-Seleção Feminina de Futebol,Prata,Futebol
-Willian Lima,Prata,judô
-Caio Bonfim,Prata,marcha atlética
-Rebeca Andrade,Prata,na ginástica artística
-Rebeca Andrade,Prata,na ginástica artística
-Tatiana Weston,Prata,Indefinido
-Gabriel Medina,Bronze,surfe
-Seleção Feminina de Vôlei,Bronze,Vôlei
-Bia Ferreira,Bronze,boxe
-Edival Pontes,Bronze,taekwondo
-Larissa Pimenta,Bronze,judô
-Equipe Feminina de Ginástica Artística,Bronze,Ginástica Artística
-Equipe de Judô,Bronze,Judô
-Alison dos Santos,Bronze,400m com barreiras
-Rayssa Leal,Bronze,skate
-Augusto Akio,Bronze,skate
+Nome do Atleta,Medalha,Esporte,URL
+Rebeca Andrade,Ouro,ginástica artística,https://ge.globo.com/olimpiadas/noticia/2024/08/01/quantas-medalhas-o-brasil-tem-nas-olimpiadas-2024-veja-lista.ghtml
+Beatriz Souza,Ouro,judô,https://ge.globo.com/olimpiadas/noticia/2024/08/01/quantas-medalhas-o-brasil-tem-nas-olimpiadas-2024-veja-lista.ghtml
+Duda/Ana Patrícia,Ouro,vôlei de praia,https://ge.globo.com/olimpiadas/noticia/2024/08/01/quantas-medalhas-o-brasil-tem-nas-olimpiadas-2024-veja-lista.ghtml
+Isaquias Queiroz,Prata,canoagem de velocidade,https://ge.globo.com/olimpiadas/noticia/2024/08/01/quantas-medalhas-o-brasil-tem-nas-olimpiadas-2024-veja-lista.ghtml
+Seleção Feminina de Futebol,Prata,Futebol,https://ge.globo.com/olimpiadas/noticia/2024/08/01/quantas-medalhas-o-brasil-tem-nas-olimpiadas-2024-veja-lista.ghtml
+Willian Lima,Prata,judô,https://ge.globo.com/olimpiadas/noticia/2024/08/01/quantas-medalhas-o-brasil-tem-nas-olimpiadas-2024-veja-lista.ghtml
+Caio Bonfim,Prata,marcha atlética,https://ge.globo.com/olimpiadas/noticia/2024/08/01/quantas-medalhas-o-brasil-tem-nas-olimpiadas-2024-veja-lista.ghtml
+Rebeca Andrade,Prata,na ginástica artística,https://ge.globo.com/olimpiadas/noticia/2024/08/01/quantas-medalhas-o-brasil-tem-nas-olimpiadas-2024-veja-lista.ghtml
+Rebeca Andrade,Prata,na ginástica artística,https://ge.globo.com/olimpiadas/noticia/2024/08/01/quantas-medalhas-o-brasil-tem-nas-olimpiadas-2024-veja-lista.ghtml
+Tatiana Weston,Prata,Indefinido,https://ge.globo.com/olimpiadas/noticia/2024/08/01/quantas-medalhas-o-brasil-tem-nas-olimpiadas-2024-veja-lista.ghtml
+Gabriel Medina,Bronze,surfe,https://ge.globo.com/olimpiadas/noticia/2024/08/01/quantas-medalhas-o-brasil-tem-nas-olimpiadas-2024-veja-lista.ghtml
+Seleção Feminina de Vôlei,Bronze,Vôlei,https://ge.globo.com/olimpiadas/noticia/2024/08/01/quantas-medalhas-o-brasil-tem-nas-olimpiadas-2024-veja-lista.ghtml
+Bia Ferreira,Bronze,boxe,https://ge.globo.com/olimpiadas/noticia/2024/08/01/quantas-medalhas-o-brasil-tem-nas-olimpiadas-2024-veja-lista.ghtml
+Edival Pontes,Bronze,taekwondo,https://ge.globo.com/olimpiadas/noticia/2024/08/01/quantas-medalhas-o-brasil-tem-nas-olimpiadas-2024-veja-lista.ghtml
+Larissa Pimenta,Bronze,judô,https://ge.globo.com/olimpiadas/noticia/2024/08/01/quantas-medalhas-o-brasil-tem-nas-olimpiadas-2024-veja-lista.ghtml
+Equipe Feminina de Ginástica Artística,Bronze,Ginástica Artística,https://ge.globo.com/olimpiadas/noticia/2024/08/01/quantas-medalhas-o-brasil-tem-nas-olimpiadas-2024-veja-lista.ghtml
+Equipe de Judô,Bronze,Judô,https://ge.globo.com/olimpiadas/noticia/2024/08/01/quantas-medalhas-o-brasil-tem-nas-olimpiadas-2024-veja-lista.ghtml
+Alison dos Santos,Bronze,400m com barreiras,https://ge.globo.com/olimpiadas/noticia/2024/08/01/quantas-medalhas-o-brasil-tem-nas-olimpiadas-2024-veja-lista.ghtml
+Rayssa Leal,Bronze,skate,https://ge.globo.com/olimpiadas/noticia/2024/08/01/quantas-medalhas-o-brasil-tem-nas-olimpiadas-2024-veja-lista.ghtml
+Augusto Akio,Bronze,skate,https://ge.globo.com/olimpiadas/noticia/2024/08/01/quantas-medalhas-o-brasil-tem-nas-olimpiadas-2024-veja-lista.ghtml
