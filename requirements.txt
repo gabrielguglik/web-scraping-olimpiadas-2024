@@ -1,12 +1,5 @@
-"Para executar o projeto folha_extracao.py, execute estes comandos no terminal"
 pip install lxml
 pip install pandas
 pip install beautifulsoup4
 pip install selenium
 pip install requests
-"Após a instalação execute o comando: python folha_extracao.py, ou python3 folha_extracao.py"
-
-"Para executar o projeto folha_extracao.py, execute estes comandos no terminal"
-pip install beautifulsoup4
-pip install requests
-"Após a instalação execute o comando: python Extracao_Globo_Esporte, ou python3 Extracao_Globo_Esporte.py"
