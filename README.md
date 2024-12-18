@@ -46,7 +46,7 @@ Antes de começar, você precisará ter as seguintes ferramentas instaladas em s
 
 Para executar o scraper, utilize o comando:
 
-    python main.py
+    python3 Extracao_Globo_Esporte.py
 
 Observação: Certifique-se de ter uma conexão de internet ativa, pois o scraper acessa páginas web para obter os dados.
 
