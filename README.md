@@ -55,4 +55,8 @@ Observação: Certifique-se de ter uma conexão de internet ativa, pois o scrape
 A apresentação do trabalho pode ser encontrada no link: 
 
 https://www.canva.com/design/DAGZl5FtUfQ/9dv20_t16_l9PqxL0DJaJQ/edit?utm_content=DAGZl5FtUfQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+E a análise desenvolvida está disponível no seguinte link:
+
+https://app.powerbi.com/view?r=eyJrIjoiNWJjYzcxMWItOTQ5Yi00MDcwLWFhMTEtNzIyOTA4Y2YzYTliIiwidCI6ImZhNzk1MzFjLThjZTUtNGJkMy05N2VlLTI0NWU2ZWUyNjZiOCJ9
    
